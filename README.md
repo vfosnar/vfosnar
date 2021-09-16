@@ -1,6 +1,1 @@
-Quidquid latine dictum sit, altum videtur.\
-Julius Caesar, 1943
-
-viz https://www.patrikkorenar.cz/
-
-![User stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vfosnar&theme=dracula)
+I am moving away from GitHub to my own [Git server](https://git.fosny.eu/), goodbye Microsoft.

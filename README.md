@@ -4,4 +4,4 @@ I am moving away from GitHub, goodbye Microsoft.
 
 :sunglasses: [Gitea](https://git.fosny.eu/)
 
-:eyes: [Matrix](https://matrix.to/#/vfosnar:fosny.eu)
+:eyes: [Matrix](https://matrix.to/#/@vfosnar:fosny.eu)

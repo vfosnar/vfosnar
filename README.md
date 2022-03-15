@@ -1,4 +1,4 @@
-I am moving away from GitHub :(
+I'm moving away from GitHub :(
 
 :smiley: [Website](https://fosny.eu/)
 

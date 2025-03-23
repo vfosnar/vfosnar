@@ -1,1 +1,1 @@
-I'm trying to stay away from GitHub. You can find a lot of my other projects on [GitLab](https://gitlab.com/vfosnar). Any repository left here will only be a mirror, fork or something else I need for collaboration.
+I'm trying to stay away from GitHub. You can find a lot of my other projects on [Codeberg](https://codeberg.org/vfosnar). Any repository left here will only be a mirror, fork or something else I need for collaboration.
